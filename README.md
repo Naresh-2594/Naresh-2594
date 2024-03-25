@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naresh
-- 👀 I’m interested in Network Devops and Cloud Architecture and Security 
+- 👀 I’m interested in Network Devops Cloud Architecture and Security 
 - 🌱 I’m currently learning Devops
 - 📫 How to reach me - naresh.t2594@gmail.com
 - ⚡ Fact: In the heart without women the sword naturally becomes divine!
